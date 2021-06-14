@@ -7,8 +7,7 @@ import org.testng.annotations.Test;
 import com.cyient.base.WebDriverWrapper;
 import com.cyient.page.CreateAccountPage;
 import com.cyient.page.SignupPage;
-
-import comcyient.utilities.DataProviderUtils;
+import com.cyient.utilities.DataProviderUtils;
 
 public class CreateAccountTest extends WebDriverWrapper {
 	@Test(dataProvider="NewUserExcelData",dataProviderClass=DataProviderUtils.class)
