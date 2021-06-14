@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-14T08:26:37 IST" name="Default suite" finished-at="2021-06-14T08:28:21 IST" duration-ms="104516">
+    <groups>
+    </groups>
+    <test started-at="2021-06-14T08:26:37 IST" name="Default test" finished-at="2021-06-14T08:28:21 IST" duration-ms="104516">
+      <class name="com.cyient.test.CreateAccountTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.cyient.test.CreateAccountTest@28f3b248]" started-at="2021-06-14T08:26:40 IST" name="setup" finished-at="2021-06-14T08:27:01 IST" duration-ms="20507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="joinInTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.cyient.test.CreateAccountTest@28f3b248]" started-at="2021-06-14T08:27:01 IST" name="joinInTest" data-provider="NewUserExcelData" finished-at="2021-06-14T08:27:22 IST" duration-ms="21142" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shraddha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hiwarkar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[h@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hiwarkar,789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- joinInTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.cyient.test.CreateAccountTest@28f3b248]" started-at="2021-06-14T08:27:22 IST" name="teardown" finished-at="2021-06-14T08:27:24 IST" duration-ms="1970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.cyient.test.CreateAccountTest@28f3b248]" started-at="2021-06-14T08:27:24 IST" name="setup" finished-at="2021-06-14T08:27:36 IST" duration-ms="11962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="joinInTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.cyient.test.CreateAccountTest@28f3b248]" started-at="2021-06-14T08:27:36 IST" name="joinInTest" data-provider="NewUserExcelData" finished-at="2021-06-14T08:27:51 IST" duration-ms="15089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bhakti]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hiwarkar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[b@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hiwarkar,686]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- joinInTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.cyient.test.CreateAccountTest@28f3b248]" started-at="2021-06-14T08:27:51 IST" name="teardown" finished-at="2021-06-14T08:27:54 IST" duration-ms="2501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.cyient.test.CreateAccountTest@28f3b248]" started-at="2021-06-14T08:27:54 IST" name="setup" finished-at="2021-06-14T08:28:05 IST" duration-ms="11579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="joinInTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.cyient.test.CreateAccountTest@28f3b248]" started-at="2021-06-14T08:28:05 IST" name="joinInTest" data-provider="NewUserExcelData" finished-at="2021-06-14T08:28:20 IST" duration-ms="15191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[puja]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hiwarkar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[p@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hiwarka,987]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- joinInTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.cyient.test.CreateAccountTest@28f3b248]" started-at="2021-06-14T08:28:20 IST" name="teardown" finished-at="2021-06-14T08:28:21 IST" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.cyient.test.CreateAccountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
